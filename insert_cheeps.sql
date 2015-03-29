@@ -1,4 +1,3 @@
-
 INSERT INTO `cheeps` (`cheep_id`,`cheep_text`,`created_date`,`user_id`) VALUES (1,'@commandertear this ship apart until you\'ve found those plans #deathstar','2015-03-01 18:16:43',3);
 INSERT INTO `cheeps` (`cheep_id`,`cheep_text`,`created_date`,`user_id`) VALUES (2,'@commander and bring me the ambassador - alive!','2015-03-01 18:17:00',3);
 INSERT INTO `cheeps` (`cheep_id`,`cheep_text`,`created_date`,`user_id`) VALUES (3,'I\'m a member of the #imperialsenate','2015-03-01 18:17:26',2);

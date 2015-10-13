@@ -1,3 +1,3 @@
 # PHP
 
-Basic PHP projects
+Microblog Chirper (Windows, Apache, MySQL, PHP)
